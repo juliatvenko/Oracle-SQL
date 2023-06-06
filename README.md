@@ -1,6 +1,6 @@
 # Oracle-SQL
 
-Create OLAP-homework
+
 **Task 1**: For each visited country (City.country), city (City.name) and accommodation type (AccomodationType.name), calculate the number of visitors and profit. Rollup the dimensions and properly format the query result by adding labels at the appropriate aggregation levels of the query.
 
 **Task 2**: For each visited country (City.country) in South America, calculate a trend for the number of visitors. 
